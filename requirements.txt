@@ -1,0 +1,10 @@
+# The libraries used by your code should be listed here
+# See https://nhsd-git.digital.nhs.uk/data-services/analytics-service/iuod/rap-community-of-practice/-/blob/master/python/project-structure-and-packaging.md
+
+# Python version = 
+
+# Data manipulation
+
+# Testing
+
+# Dependencies of the above packages
