@@ -7,8 +7,8 @@ Reproducible and flexible example notebooks that may be used by researchers usin
 > _To contact us raise an issue on Github or via email._
 > 
 > See our (and our colleagues') other work here:
-- [SDE Data Wranglers](https://github.com/orgs/NHSDigital/teams/sde_wranglers/repositories)
-- [NHS England](https://github.com/orgs/NHSDigital/repositories)
+>- [SDE Data Wranglers](https://github.com/orgs/NHSDigital/teams/sde_wranglers/repositories)
+>- [NHS England](https://github.com/orgs/NHSDigital/repositories)
 
 ## Description
 
@@ -18,27 +18,31 @@ Within the SDE, users have access to [Databricks](https://digital.nhs.uk/service
 
 ### Available analysis
 
-#### python
+#### :snake: python
 
 pyspark_code_example: PySpark is the Python API for Aparche Spark - it can handle Big Data better than pandas.
 
-##### machine_learning_big_data
+##### :sparkles: machine_learning_big_data
 
 This folder contains notebooks exploring the machine learning capabilities of PySpark in the SDE. Examples include:
 - decision_tree_regressor
 - PyTorch
 - random_forest_classifier
 
-##### machine_learning_small_data
+##### :panda_face: machine_learning_small_data
 
 This folder contains analysis for smaller data sets, using libraries like pandas and sklearn. Examples include:
 - regression_multivariable
 - regression_simple
 - sklearn_mlflow_saving models: there is the option in Databricks to save the parameters and output of machine learning models - this example will be useful to go through whether you use PySpark or pandas
 
-#### r
+#### :pirate_flag:	r
 
 SparkR is an R package that provides a light-weight frontend to use Apache Spark from R. The example notebook demonstrates what you can do with SparkR.
+
+#### :mechanic: wrangler_utilities
+
+Useful functions and code, including code to create and save toy data sets.
 
 ## Licence
 
