@@ -40,13 +40,6 @@ This folder contains analysis for smaller data sets, using libraries like pandas
 
 SparkR is an R package that provides a light-weight frontend to use Apache Spark from R. The example notebook demonstrates what you can do with SparkR.
 
-#### wrangler_utilities
-
-Useful functions and code:
-- create_toy_datasets: saves fake data to tables for example analysis
-- utilities_python: useful Python functions for researchers
-- utilities_r: useful R functions for researchers
-
 ## Licence
 
 The codebase is released under the [MIT License](LICENCE). This covers both the codebase and any sample code in the documentation.
@@ -56,3 +49,5 @@ Any HTML or Markdown documentation is [© Crown copyright](https://www.nationala
 ## Acknowledgements
 
 [Data Wranglers](https://github.com/orgs/NHSDigital/teams/sde_wranglers), Data & Analytics, NHS England
+
+For individuals involved see [CONTRIBUTORS](CONTRIBUTORS.md).
