@@ -3,7 +3,7 @@
 Reproducible and flexible example notebooks that may be used by researchers using Databricks within the [NHS England SDE](https://digital.nhs.uk/services/secure-data-environment-service/secure-data-environment).
 
 ## Contact
-**This repository is maintained by [NHS England Data Wranglers team](england.sdeservice@nhs.net)**.
+**This repository is maintained by [NHS England Data Wranglers team](mailto:england.sdeservice@nhs.net?subject=GitHub%20sde_example_notebooks)**.
 > _To contact us raise an issue on Github or via email._
 > 
 > See our (and our colleagues') other work here:
