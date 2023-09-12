@@ -24,9 +24,10 @@ pyspark_code_example: PySpark is the Python API for Aparche Spark - it can handl
 
 ##### :sparkles: machine_learning_big_data
 
+Usually, if a dataframe has more than one million rows, it is big data. However, a dataset may have less rows than this and still be classed as "big" due to complexity.
+
 This folder contains notebooks exploring the machine learning capabilities of PySpark in the SDE. Examples include:
 - decision_tree_regressor
-- PyTorch
 - random_forest_classifier
 
 ##### :panda_face: machine_learning_small_data
@@ -34,7 +35,6 @@ This folder contains notebooks exploring the machine learning capabilities of Py
 This folder contains analysis for smaller data sets, using libraries like pandas and sklearn. Examples include:
 - regression_multivariable
 - regression_simple
-- sklearn_mlflow_saving models: there is the option in Databricks to save the parameters and output of machine learning models - this example will be useful to go through whether you use PySpark or pandas
 
 #### :pirate_flag:	r
 
